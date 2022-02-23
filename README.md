@@ -1,0 +1,2 @@
+# dailyquiz
+Alfred workflow
